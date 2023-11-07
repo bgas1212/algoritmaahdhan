@@ -1,0 +1,4 @@
+algoritma duid
+
+1. jika saya menginputkan uang atau angka lebih besar atau sama dari 200.000 / 200000 maka akan mengeluarkan output tulisan anda orang kaya
+2. jika inputan uang atau angka lebih sedikit dari 200.000 / 200000 maka akan mengeluarkan output tulisan "yang sabar" 
